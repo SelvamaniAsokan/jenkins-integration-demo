@@ -1,0 +1,7 @@
+Welcome to Jenkins CI/CD!
+
+This is my second file.
+
+Testing GitHub and Jenkins integration.
+
+Build automation is working.
